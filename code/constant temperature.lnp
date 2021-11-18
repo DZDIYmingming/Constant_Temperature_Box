@@ -1,0 +1,5 @@
+"main.obj",
+"delay.obj",
+"ST7567.obj" 
+TO "constant temperature" 
+RAMSIZE(256) 
